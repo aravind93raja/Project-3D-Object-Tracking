@@ -10,7 +10,7 @@ In this project,
 
 ## Pipeline for estimating Time To Collision(TTC)
 
-<img src="images/TTC.png" width="779" height="414" />
+<img src="images/TTC.png" width="650" height="700" />
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
